@@ -1,2 +1,2 @@
 # youKnowMe
-NOde JS cli app - made using ReadLineSync node module.
+Node JS cli app - made using ReadLineSync node module.
